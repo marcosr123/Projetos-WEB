@@ -1,6 +1,6 @@
 import React from "react";
 
-import {Navbar, NavItem, Row} from 'react-materialize';
+import {Navbar, Row} from 'react-materialize';
 
 import {NavLink} from 'react-router-dom';
 
