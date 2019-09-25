@@ -8,7 +8,9 @@ const Header = () => (
     <Row>
         <Navbar className="#01579b light-blue darken-4">
             <li><NavLink to='/'>Home</NavLink></li>
-            <li><NavLink to='contact'>Contact</NavLink></li>
+            <li><NavLink to='shop'>Loja</NavLink></li>
+            <li><NavLink to='news'>Noticias</NavLink></li>
+            <li><NavLink to='contact'>Contato</NavLink></li>
         </Navbar>
     </Row>
 );

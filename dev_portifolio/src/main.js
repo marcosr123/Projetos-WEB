@@ -1,5 +1,6 @@
 import React from "react";
 import Home from './components/home/home';
+import Fouter from './components/footer/footer';
 import Contact from "./components/contact/contact";
 import {Container} from 'react-materialize';
 import {Switch, Route} from 'react-router-dom';
